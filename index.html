@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html ng-app="pressTask">
+<head lang="en">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/common.css"/>
+  <link rel="stylesheet" href="css/index.css"/>
+  <title></title>
+</head>
+<body>
+  <div id="slider" class="lf">
+    <div class="logo">
+      <img src="images/logo.jpg" alt=""/>
+    </div>
+    <div class="nav">
+      <ul>
+        <li ui-sref="attack" ui-sref-active="active attack">
+          <span>攻击源监控</span>
+        </li>
+        <li ui-sref="task" ui-sref-active="active task">
+          <span>任务管理</span>
+        </li>
+        <li ui-sref="web" ui-sref-active="active web">
+          <span>网络设置</span>
+        </li>
+        <li ui-sref="userInfo" ui-sref-active="active userInfo">
+          <span>用户信息设置</span>
+        </li>
+      </ul>
+    </div>
+    <div class="exit">
+      <div class="shutdown lf">
+        <span>关机</span>
+      </div>
+      <div class="restart rt">
+        <span>重启</span>
+      </div>
+      <div class="logOut clear">
+        <div>
+          <span>退出登陆</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section id="section" class="rt" ui-view>
+  </section>
+</body>
+  <script src="js/tool/jquery-1.11.3.js"></script>
+  <script src="js/tool/angular.min.js"></script>
+  <script src="js/tool/angular-ui-router.js"></script>
+  <script src="js/index.js"></script>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/images/attack_m.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/attack_m_a.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/log_out.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/logo.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/restart.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/shutdown.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/slider_a.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/task_m.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/task_m_a.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/userInfo_s.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/userInfo_s_a.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/web_c.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/images/web_c_a.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/angular-ui-router.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/angular.min.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpl/attack.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpl/task.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpl/userInfo.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpl/web.html" charset="UTF-8" />
+  </component>
+</project>
